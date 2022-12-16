@@ -6,7 +6,7 @@ table{
     width: 800px;
     margin: auto;
     table-layout: fixed;
-    text-align: center;
+    text-align: left;
     margin-top: 50px;
     border-collapse: collapse;
 }
