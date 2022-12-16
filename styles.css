@@ -14,8 +14,21 @@ th,td{
     border: 1px solid black 
 }
 th{
-    background-color: palevioletred;
+    background-color: brown;
 }
 td{
-    background-color: rgb(230, 204, 213);
+    text-align: end;
 }
+.tt{
+    text-align: left;
+}
+.clr{
+    background-color:  rgb(230, 204, 213);
+}
+.cl{
+    background-color:  rgb(211, 146, 138);
+}
+.c{
+    background-color:  gray;
+}
+
