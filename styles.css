@@ -1,2 +1,21 @@
 
-/* Your CSS Code here. */
+body{
+   background-color: white;
+}
+table{
+    width: 800px;
+    margin: auto;
+    table-layout: fixed;
+    text-align: center;
+    margin-top: 50px;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid black 
+}
+th{
+    background-color: palevioletred;
+}
+td{
+    background-color: rgb(230, 204, 213);
+}
