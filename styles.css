@@ -1,13 +1,29 @@
 
-#btn{
-    background-color: black;
-    color: white;
-    border-radius: 5px;
-    border: none;
+
+#tbl{
+    width:50%;
+    font-size: medium;
 }
-#btn:hover{
-    background-color: yellow;
-    color: black;
-    border-radius: 30px;
-    border: none;
+#t1,#t2,#t3,#t4{
+    text-align: left;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+#p1{
+    text-align: left;
+    background-color: brown;
+}
+#p2{
+    text-align: right;
+    background-color: rgb(176, 109, 109);
+}
+#p3{
+    text-align: right;
+    background-color: #efe3d2;
+}
+#p4{
+    text-align: right;
+    background-color: hsla(180, 7%, 68%, 0.918);
 }
