@@ -12,22 +12,12 @@ table,th,td{
     border-collapse: collapse;
     border: 1px solid black 
 }
-th{
-    background-color: brown;
-}
+
 td{
     text-align: end;
 }
 .tt{
     text-align: left;
 }
-.clr{
-    background-color:  rgb(230, 204, 213);
-}
-.cl{
-    background-color:  rgb(211, 146, 138);
-}
-.c{
-    background-color:  gray;
-}
+
 
