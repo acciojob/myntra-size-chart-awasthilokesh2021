@@ -1,13 +1,22 @@
 
-#btn{
-    background-color: black;
-    color: white;
-    border: none;
-    border-radius: 5px;
+
+table{
+    width: 800px;
+    margin: auto;
+    table-layout: fixed;
+    text-align: left;
+    margin-top: 50px;
+   
 }
-#btn:hover{
-    background-color: yellow;
-    color: black;
-    border: none;
-    border-radius: 30px;
+table,th,td{
+    border-collapse: collapse;
+    border: 1px solid black 
 }
+.data{
+    text-align: end;
+}
+.data{
+    text-align: left;
+}
+ 
+
