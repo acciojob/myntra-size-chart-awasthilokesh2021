@@ -1,23 +1,9 @@
 
 
-table{
-    width: 800px;
-    margin: auto;
-    table-layout: fixed;
-    text-align: left;
-    margin-top: 50px;
-   
-}
 table,th,td{
     border-collapse: collapse;
     border: 1px solid black 
 }
 
-td{
-    text-align: end;
-}
-.tt{
-    text-align: left;
-}
 
 
